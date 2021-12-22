@@ -1,10 +1,10 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 57,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 0.6299999952316284,
@@ -63,11 +63,11 @@
       35,
       36
     ],
-    "visible_layers": "7fcbfff_80000007",
-    "zone_display_mode": 1
+    "visible_layers": "3fcbfff_80000007",
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "MiniMike_RP2040.kicad_prl",
+    "filename": "RP2040smol.kicad_prl",
     "version": 3
   },
   "project": {

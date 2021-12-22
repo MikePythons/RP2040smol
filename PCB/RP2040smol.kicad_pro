@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
+          "45_degree_only": false,
           "min_clearance": 0.254
         }
       },
@@ -57,6 +57,8 @@
       ],
       "drc_exclusions": [
         "courtyards_overlap|121779866|102040001|1aed8758-8d92-4f93-bdaf-351280116c63|4c278da8-95a9-452c-b480-dd46ed93169f",
+        "courtyards_overlap|128730001|105580001|37c1a1a5-2aa7-44b8-a617-ef3463bffb18|bd03d54d-6613-44c3-90b5-eeda58a0279f",
+        "courtyards_overlap|145250001|116300001|d095b373-25f8-454b-9b50-d5bbe183b0ba|e1ec9053-9b8b-43fd-8b59-c2391cc68534",
         "courtyards_overlap|178075001|90135001|e12c281e-d60f-40e5-a5c7-76643f6e9f82|a554945c-6b22-4a70-bf7a-0603e8809f25",
         "courtyards_overlap|178603426|110774999|09764b1b-1142-49d6-8eb4-b6f316683d5c|15957e8b-db3c-48fe-bea5-6a8ea7904690",
         "silk_over_copper|108232600|108560000|0c1e0d91-b3bc-49d8-a2b1-fde9c991afb0|74b3ddc7-f2a1-44b3-9b09-47ff35e1bde0",
@@ -373,7 +375,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MiniMike_RP2040.kicad_pro",
+    "filename": "RP2040smol.kicad_pro",
     "version": 1
   },
   "net_settings": {
