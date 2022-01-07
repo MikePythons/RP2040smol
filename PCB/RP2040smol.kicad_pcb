@@ -8262,7 +8262,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 31c2f0aa-01a6-4ed7-a555-e8df732ef9e2)
     )
-    (fp_text value "D" (at 0 0 unlocked) (layer "F.SilkS")
+    (fp_text value "E" (at 0 0 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.2)))
       (tstamp ddc58652-2df3-4ace-8808-c959f029ed1f)
     )

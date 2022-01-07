@@ -3254,7 +3254,7 @@
     (property "Reference" "MISC1" (id 0) (at 275.59 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "D" (id 1) (at 274.32 173.99 0)
+    (property "Value" "E" (id 1) (at 274.32 173.99 0)
       (effects (font (size 4 4) bold italic) (justify left))
     )
     (property "Footprint" "MikeFootprintLib:RevisionSymbol_Small" (id 2) (at 275.59 173.99 0)
@@ -4079,7 +4079,7 @@
       (reference "JP3") (unit 1) (value "LED Disable") (footprint "MikeFootprintLib:Covered_SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/391dcbac-64b5-4436-a171-22510e2cc165"
-      (reference "MISC1") (unit 1) (value "D") (footprint "MikeFootprintLib:RevisionSymbol_Small")
+      (reference "MISC1") (unit 1) (value "E") (footprint "MikeFootprintLib:RevisionSymbol_Small")
     )
     (path "/6eeba014-e27c-49cf-b969-597642a973b0"
       (reference "PADS1") (unit 1) (value "rp2040smol-b-pads") (footprint "MikeConnectorFootprints:Castellated_4x10_smol_dual")
