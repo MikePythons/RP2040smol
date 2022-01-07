@@ -2838,7 +2838,7 @@
   )
 
   (symbol (lib_id "Jumper:Jumper_2_Bridged") (at 233.68 123.19 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 100d9133-447c-4967-b99f-44dbd4f1e615)
     (property "Reference" "JP3" (id 0) (at 233.68 118.5885 0))
     (property "Value" "LED Disable" (id 1) (at 233.68 121.3636 0))
@@ -3056,7 +3056,7 @@
   )
 
   (symbol (lib_id "Jumper:Jumper_2_Bridged") (at 233.68 109.22 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 327e09a0-1826-45f5-a08b-72638d3ae0b6)
     (property "Reference" "JP2" (id 0) (at 233.68 104.6185 0))
     (property "Value" "Neopix Disable" (id 1) (at 233.68 107.3936 0))
@@ -3139,7 +3139,7 @@
   )
 
   (symbol (lib_id "Jumper:Jumper_2_Bridged") (at 233.68 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 38c9f566-1819-4130-b3f7-b9459e2f526c)
     (property "Reference" "JP1" (id 0) (at 233.68 91.9185 0))
     (property "Value" "Neopix Power Disable" (id 1) (at 233.68 94.6936 0))
@@ -3307,7 +3307,7 @@
   )
 
   (symbol (lib_id "MikeLib:rp2040smol-b-pads") (at 250.19 55.88 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 6eeba014-e27c-49cf-b969-597642a973b0)
     (property "Reference" "PADS1" (id 0) (at 264.16 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))

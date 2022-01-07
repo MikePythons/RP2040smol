@@ -1499,8 +1499,9 @@
     (tags "Through hole socket strip THT 1x10 2.00mm single row")
     (property "Sheetfile" "RP2040smol.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/6eeba014-e27c-49cf-b969-597642a973b0")
-    (attr through_hole)
+    (attr through_hole exclude_from_bom)
     (fp_text reference "PADS1" (at 1 -17) (layer "F.SilkS") hide
       (effects (font (size 0.5 0.5) (thickness 0.15)))
       (tstamp fe38845d-539a-4a43-b57a-89334a49ad6b)
@@ -8650,8 +8651,9 @@
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "RP2040smol.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/100d9133-447c-4967-b99f-44dbd4f1e615")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP3" (at 0 1.8 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3fe82261-43b6-4a37-a5f5-d092b44548c4)
@@ -9654,8 +9656,9 @@
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "RP2040smol.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/327e09a0-1826-45f5-a08b-72638d3ae0b6")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP2" (at -3 0 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ca76fe80-d6be-4ee4-baf0-20c5b8bfedb3)
@@ -9717,8 +9720,9 @@
     (tags "net tie solder jumper bridged")
     (property "Sheetfile" "RP2040smol.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/38c9f566-1819-4130-b3f7-b9459e2f526c")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP1" (at 3 0 -270) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp cb4cfa69-0a99-491f-bc22-8eb3ff43438a)
