@@ -3031,7 +3031,7 @@
     (uuid 21831e86-7f77-448d-b255-ff94c0e692fa)
     (property "Reference" "SW2" (id 0) (at 132.08 174.371 0))
     (property "Value" "RESET" (id 1) (at 132.08 176.6824 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810" (id 2) (at 132.08 176.53 0)
+    (property "Footprint" "MikeSwitchFootprints:SW_Push_SPST_Alps_SKRK_Clone" (id 2) (at 132.08 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" (id 3) (at 132.08 176.53 0)
@@ -3562,7 +3562,7 @@
     (uuid 7e536656-9180-4bdb-b0bb-00f3e70f1632)
     (property "Reference" "SW1" (id 0) (at 106.68 173.101 0))
     (property "Value" "BOOTSEL" (id 1) (at 106.68 175.4124 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810" (id 2) (at 106.68 175.26 0)
+    (property "Footprint" "MikeSwitchFootprints:SW_Push_SPST_Alps_SKRK_Clone" (id 2) (at 106.68 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=488" (id 3) (at 106.68 175.26 0)
@@ -4117,10 +4117,10 @@
       (reference "R8") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/7e536656-9180-4bdb-b0bb-00f3e70f1632"
-      (reference "SW1") (unit 1) (value "BOOTSEL") (footprint "Button_Switch_SMD:SW_SPST_PTS810")
+      (reference "SW1") (unit 1) (value "BOOTSEL") (footprint "MikeSwitchFootprints:SW_Push_SPST_Alps_SKRK_Clone")
     )
     (path "/21831e86-7f77-448d-b255-ff94c0e692fa"
-      (reference "SW2") (unit 1) (value "RESET") (footprint "Button_Switch_SMD:SW_SPST_PTS810")
+      (reference "SW2") (unit 1) (value "RESET") (footprint "MikeSwitchFootprints:SW_Push_SPST_Alps_SKRK_Clone")
     )
     (path "/72059e0e-070a-4a12-8db0-d7d308cd846a"
       (reference "U1") (unit 1) (value "AP2112K-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")

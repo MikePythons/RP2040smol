@@ -130,7 +130,7 @@
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.15239999999999998,
-        "min_via_annular_width": 0.049999999999999996,
+        "min_via_annular_width": 0.13,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -150,6 +150,14 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.46,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.21
         },
         {
           "diameter": 0.55,
